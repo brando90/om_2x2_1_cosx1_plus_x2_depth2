@@ -1,0 +1,1 @@
+Mdl*hbf1*-units[2, 12, 1], task: task_f2d_2x2_1_cosx1_plus_x2_depth2, step 0/4682, train err 5.84343, cv err: 5.54544 test err 5.82201Opt:Adam, BN False, BN_trainable: False After0/4682 iteration,Init: kern_init
